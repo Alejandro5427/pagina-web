@@ -7,4 +7,5 @@ div{
     background-color: #000;
     border: 10px dotted #fff;
     padding: 30px;
+    display: inline-block;
 }
